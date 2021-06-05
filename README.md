@@ -3,6 +3,17 @@
 ## What is Browser Scroller?
 Tool that can help you to start auto scroll for your browser from any website you want. You can scroll up and down infinitely.
 
+## Build and install from source
+`git clone https://github.com/ShyGorilla/Browser_Scroller.git` // Cloninng the tool
+
+`cd Browser_Scroller` // Change the directory to the tool
+
+`pip3 install -r requirements.txt` // To install the requirements
+
+`python3 scroller.py` // To run the tool
+
+`git clone https://github.com/ShyGorilla/Browser_Scroller.git ; cd Browser_Scroller ; pip3 install -r requirements.txt ; python3 scroller.py` // To do everything with this code.
+
 ## Screenshots
 
 <img width="352" alt="Screen Shot 2021-06-06 at 3 43 37 AM" src="https://user-images.githubusercontent.com/73632576/120908313-fba26b00-c679-11eb-875e-5e0a355885f5.png">
