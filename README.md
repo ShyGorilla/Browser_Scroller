@@ -1,6 +1,6 @@
 # Browser Scroller
 
-<img width="493" alt="Screen Shot 2021-06-06 at 4 05 37 AM" src="https://user-images.githubusercontent.com/73632576/120908564-81271a80-c67c-11eb-8562-fd1eec359f84.png">
+<p width="493" style="text-align:center;"><img src="https://user-images.githubusercontent.com/73632576/120908564-81271a80-c67c-11eb-8562-fd1eec359f84.png" alt="Screen Shot 2021-06-06 at 4 05 37 AM"></p>
 
 ## What is Browser Scroller?
 Tool that can help you to start auto scroll for your browser from any website you want. You can scroll up and down infinitely.
