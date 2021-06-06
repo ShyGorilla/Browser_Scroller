@@ -1,6 +1,10 @@
 # Browser Scroller
 
-<p width="493" style="text-align:center;"><img src="https://user-images.githubusercontent.com/73632576/120908564-81271a80-c67c-11eb-8562-fd1eec359f84.png" alt="Screen Shot 2021-06-06 at 4 05 37 AM"></p>
+<p align="center">
+<a href="https://bit.ly/338z4Gu"><img title="Made in UAE" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+</p>
+
+<p width="493" align="center"><img src="https://user-images.githubusercontent.com/73632576/120908564-81271a80-c67c-11eb-8562-fd1eec359f84.png" alt="Screen Shot 2021-06-06 at 4 05 37 AM"></p>
 
 ## What is Browser Scroller?
 Tool that can help you to start auto scroll for your browser from any website you want. You can scroll up and down infinitely.
