@@ -13,6 +13,10 @@ Tool that can help you to start auto scroll for your browser from any website yo
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Mac](http://img.shields.io/badge/-Mac-0078D6?style=flat-square&logo=apple&logoColor=ffffff)
 
+## Coding languages 💻
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+
 ## Build and install from source
 `git clone https://github.com/ShyGorilla/Browser_Scroller.git` // Cloninng the tool
 
