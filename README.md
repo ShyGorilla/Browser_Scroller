@@ -26,6 +26,8 @@ Tool that can help you to start auto scroll for your browser from any website yo
 
 `python3 scroller.py` // To run the tool
 
+`https://chromedriver.chromium.org/downloads` // Download the driver from this link and replace it with the file in drivers folder
+
 `git clone https://github.com/ShyGorilla/Browser_Scroller.git ; cd Browser_Scroller ; pip3 install -r requirements.txt ; python3 scroller.py` // To do everything with this code.
 
 Screenshots
